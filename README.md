@@ -1,2 +1,2 @@
-# Science-Olympiad-
+# Science_Olympiad
 Everything Science Olympiad 
